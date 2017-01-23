@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "Hello World!, this is from hello-xiaoguo"
+read -p "Press any key to continue... " 
